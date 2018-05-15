@@ -1,0 +1,56 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setmainfont{"微软雅黑"}
+#+ATTR_LATEX: :width 5cm :options angle=90
+#+TITLE: Report
+#+AUTHOR: 杨 睿
+#+EMAIL: yangruipis@163.com
+#+KEYWORDS: GDT
+#+OPTIONS: H:4 toc:t 
+
+
+* Daily Review
+
+当天的统计，光标放在"#+BEGIN:"行上， ~C-c C-c~ 即可更新
+
+#+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block today :fileskip0 t :indent t
+#+CAPTION: Clock summary at [2018-05-15 二 19:33], for 星期二, 五月 15, 2018.
+| File         | Headline                     | Time   |      |
+|--------------+------------------------------+--------+------|
+|              | ALL *Total time*             | *0:16* |      |
+|--------------+------------------------------+--------+------|
+| finished.org | *File time*                  | *0:06* |      |
+|              | Hobbies                      | 0:06   |      |
+|              | \emsp DONE [#C] try pomodoro |        | 0:06 |
+|--------------+------------------------------+--------+------|
+| task.org     | *File time*                  | *0:10* |      |
+|              | Others                       | 0:10   |      |
+|              | \emsp DONE [#C] 修改队长简历 |        | 0:10 |
+#+END:
+
+
+* Weekly Review
+
+当周的统计，光标放在"#+BEGIN:"行上， ~C-c C-c~ 即可更新
+
+#+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
+#+CAPTION: Clock summary at [2018-05-15 二 19:33], for week 2018-W20.
+| File         | Headline                     | Time   |      |
+|--------------+------------------------------+--------+------|
+|              | ALL *Total time*             | *0:16* |      |
+|--------------+------------------------------+--------+------|
+| finished.org | *File time*                  | *0:06* |      |
+|              | Hobbies                      | 0:06   |      |
+|              | \emsp DONE [#C] try pomodoro |        | 0:06 |
+|--------------+------------------------------+--------+------|
+| task.org     | *File time*                  | *0:10* |      |
+|              | Others                       | 0:10   |      |
+|              | \emsp DONE [#C] 修改队长简历 |        | 0:10 |
+#+END:
+
+* How to use
+
+- ~C-c C-x C-i~ 插入一个计时
+- ~C-c C-x C-o~ 结束一个计时
+- ~C-u C-c C-x C-i~ 查看最近的计时项目
+
+

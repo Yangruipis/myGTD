@@ -1,0 +1,21 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setmainfont{"微软雅黑"}
+#+ATTR_LATEX: :width 5cm :options angle=90
+#+TITLE: Canceled Task
+#+AUTHOR: 杨 睿
+#+EMAIL: yangruipis@163.com
+#+KEYWORDS: GTD
+#+OPTIONS: H:4 toc:t 
+
+* Work
+
+
+
+* Learning
+
+* Hobbies
+
+* Others
+
+
+

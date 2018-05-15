@@ -1,0 +1,27 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setmainfont{"微软雅黑"}
+#+ATTR_LATEX: :width 5cm :options angle=90
+#+TITLE: Task
+#+AUTHOR: 杨 睿
+#+EMAIL: yangruipis@163.com
+#+KEYWORDS: GTD
+#+OPTIONS: H:4 toc:t 
+#+PROPERTY: CLOCK_INTO_DRAWER t
+#+TAGS: { code(c) theory(t) school(s) easy(e) project(p) }
+
+* Work
+
+** TODO [#B] 论文整理发表                                          :school:
+DEADLINE: <2018-05-31 四>
+
+* Learning
+
+** TODO [#B] eamcs GTD
+*** daily, weekly, monthly job
+*** time manager + 番茄
+*** org store link
+
+* Others
+
+* Hobbies
+

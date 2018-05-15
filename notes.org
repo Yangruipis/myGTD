@@ -1,0 +1,20 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setmainfont{"微软雅黑"}
+#+ATTR_LATEX: :width 5cm :options angle=90
+#+TITLE: Notes
+#+AUTHOR: 杨 睿
+#+EMAIL: yangruipis@163.com
+#+KEYWORDS: GTD
+#+OPTIONS: H:4 toc:t 
+#+TAGS: { code(c) theory(t) school(s) easy(e) project(p) daily(d) weekly(w)}
+  
+* Quick notes
+
+** org +1d 和 ++1d的区别
+前者过去之后依然会在agenda中出现，后者不会
+
+
+ [2018-05-15 二 14:58]
+
+
+

@@ -1,0 +1,54 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setmainfont{"微软雅黑"}
+#+ATTR_LATEX: :width 5cm :options angle=90
+#+TITLE: Canlendars
+#+AUTHOR: 杨 睿
+#+EMAIL: yangruipis@163.com
+#+KEYWORDS: GTD
+#+OPTIONS: H:4 toc:t 
+#+TAGS: { code(c) theory(t) school(s) easy(e) project(p) daily(d) weekly(w)}
+
+* Work
+
+** TODO 个人项目：simple_ml                                :project:weekly:
+- State "DONE"       from "TODO"       [2018-05-15 二 15:13]
+
+SCHEDULED: <2018-05-21 一 ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2018-05-15 二 15:13]
+:END:
+
+** TODO 京东Jdata比赛                                      :project:weekly:
+SCHEDULED: <2018-05-16 三 ++1w>
+
+* Learning
+
+** TODO 刷编程题                                               :code:daily:
+SCHEDULED: <2018-05-16 三 13:30-16:00 ++1d>
+- State "DONE"       from "TODO"       [2018-05-15 二 15:01]
+- State "TODO"       from ""           [2018-05-15 二 14:56]
+:PROPERTIES:
+:LAST_REPEAT: [2018-05-15 二 15:01]
+:END:
+
+** TODO 复习机器学习                                         :theory:daily:
+SCHEDULED: <2018-05-16 三 10:00-11:00 ++1d>
+- State "DONE"       from "TODO"       [2018-05-15 二 15:14]
+- State "TODO"       from "TODO"       [2018-05-15 二 15:13]
+:PROPERTIES:
+:LAST_REPEAT: [2018-05-15 二 15:14]
+:END:
+
+** TODO [#C] 阅读（源码、文献、前沿文章）                           :daily:
+SCHEDULED: <2018-05-15 二 21:00-22:00 ++1d>
+
+
+
+
+* Hobbies
+
+** TODO Call home
+SCHEDULED: <2018-05-18 五 ++1w>
+
+- State "TODO"       from ""           [2018-05-15 二 14:53]
+
