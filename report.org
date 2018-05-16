@@ -13,18 +13,20 @@
 当天的统计，光标放在"#+BEGIN:"行上， ~C-c C-c~ 即可更新
 
 #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block today :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-05-15 二 19:33], for 星期二, 五月 15, 2018.
-| File         | Headline                     | Time   |      |
-|--------------+------------------------------+--------+------|
-|              | ALL *Total time*             | *0:16* |      |
-|--------------+------------------------------+--------+------|
-| finished.org | *File time*                  | *0:06* |      |
-|              | Hobbies                      | 0:06   |      |
-|              | \emsp DONE [#C] try pomodoro |        | 0:06 |
-|--------------+------------------------------+--------+------|
-| task.org     | *File time*                  | *0:10* |      |
-|              | Others                       | 0:10   |      |
-|              | \emsp DONE [#C] 修改队长简历 |        | 0:10 |
+#+CAPTION: Clock summary at [2018-05-15 二 20:56], for 星期二, 五月 15, 2018.
+| File         | Headline                                     | Time   |      |
+|--------------+----------------------------------------------+--------+------|
+|              | ALL *Total time*                             | *0:53* |      |
+|--------------+----------------------------------------------+--------+------|
+| calendar.org | *File time*                                  | *0:36* |      |
+|              | Learning                                     | 0:36   |      |
+|              | \emsp TODO [#C] 阅读（源码、文献、前沿文章） |        | 0:36 |
+|--------------+----------------------------------------------+--------+------|
+| finished.org | *File time*                                  | *0:17* |      |
+|              | Hobbies                                      | 0:06   |      |
+|              | \emsp DONE [#C] try pomodoro                 |        | 0:06 |
+|              | Others                                       | 0:11   |      |
+|              | \emsp DONE [#C] 修改队长简历                 |        | 0:11 |
 #+END:
 
 
@@ -33,18 +35,26 @@
 当周的统计，光标放在"#+BEGIN:"行上， ~C-c C-c~ 即可更新
 
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-05-15 二 19:33], for week 2018-W20.
-| File         | Headline                     | Time   |      |
-|--------------+------------------------------+--------+------|
-|              | ALL *Total time*             | *0:16* |      |
-|--------------+------------------------------+--------+------|
-| finished.org | *File time*                  | *0:06* |      |
-|              | Hobbies                      | 0:06   |      |
-|              | \emsp DONE [#C] try pomodoro |        | 0:06 |
-|--------------+------------------------------+--------+------|
-| task.org     | *File time*                  | *0:10* |      |
-|              | Others                       | 0:10   |      |
-|              | \emsp DONE [#C] 修改队长简历 |        | 0:10 |
+#+CAPTION: Clock summary at [2018-05-16 三 11:01], for week 2018-W20.
+| File         | Headline                                     | Time   |      |      |
+|--------------+----------------------------------------------+--------+------+------|
+|              | ALL *Total time*                             | *1:49* |      |      |
+|--------------+----------------------------------------------+--------+------+------|
+| calendar.org | *File time*                                  | *0:56* |      |      |
+|              | Learning                                     | 0:56   |      |      |
+|              | \emsp TODO 复习机器学习                      |        | 0:20 |      |
+|              | \emsp\emsp TODO 数据预处理和特征选择         |        |      | 0:20 |
+|              | \emsp TODO [#C] 阅读（源码、文献、前沿文章） |        | 0:36 |      |
+|--------------+----------------------------------------------+--------+------+------|
+| finished.org | *File time*                                  | *0:17* |      |      |
+|              | Hobbies                                      | 0:06   |      |      |
+|              | \emsp DONE [#C] try pomodoro                 |        | 0:06 |      |
+|              | Others                                       | 0:11   |      |      |
+|              | \emsp DONE [#C] 修改队长简历                 |        | 0:11 |      |
+|--------------+----------------------------------------------+--------+------+------|
+| notes.org    | *File time*                                  | *0:36* |      |      |
+|              | Quick notes                                  | 0:36   |      |      |
+|              | \emsp TODO 讲座 yichuan zhao                 |        | 0:36 |      |
 #+END:
 
 * How to use
