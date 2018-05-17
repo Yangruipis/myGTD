@@ -24,34 +24,62 @@ SCHEDULED: <2018-05-16 三 ++1w>
 * Learning
 
 ** TODO 刷编程题                                               :code:daily:
-SCHEDULED: <2018-05-16 三 13:30-16:00 ++1d>
+SCHEDULED: <2018-05-17 四 13:30-16:00 ++1d>
+- State "DONE"       from "TODO"       [2018-05-16 三 17:06]
 - State "DONE"       from "TODO"       [2018-05-15 二 15:01]
 - State "TODO"       from ""           [2018-05-15 二 14:56]
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-15 二 15:01]
+:LAST_REPEAT: [2018-05-16 三 17:06]
 :END:
 
+*** 2018-05-16
+CLOCK: [2018-05-16 三 13:51]--[2018-05-16 三 17:03] =>  3:12
+
+- 网易有道2017内推选择题，牛客网 https://www.nowcoder.com/profile/5924424/test/15754391/46325
+
+
 ** TODO 复习机器学习                                         :theory:daily:
-SCHEDULED: <2018-05-16 三 10:00-11:00 ++1d>
+SCHEDULED: <2018-05-18 五 10:00-11:00 ++1d>
+- State "DONE"       from "TODO"       [2018-05-17 四 11:47]
+- State "DONE"       from "TODO"       [2018-05-16 三 22:21]
 - State "DONE"       from "TODO"       [2018-05-15 二 15:14]
 - State "TODO"       from "TODO"       [2018-05-15 二 15:13]
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-15 二 15:14]
+:LAST_REPEAT: [2018-05-17 四 11:47]
 :END:
 
 
-*** TODO 数据预处理和特征选择
+*** TODO 数据预处理
+CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 13:43] =>  0:44
+CLOCK: [2018-05-16 三 12:28]--[2018-05-16 三 12:34] =>  0:06
 CLOCK: [2018-05-16 三 09:55]--[2018-05-16 三 10:15] =>  0:20
 CLOCK: [2018-05-16 三 09:55]--[2018-05-16 三 09:55] =>  0:00
 - State "TODO"       from ""           [2018-05-16 三 09:43]
 
+**** 详细步骤
+CLOCK: [2018-05-17 四 11:49]--[2018-05-17 四 12:11] =>  0:22
+CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 
-** TODO [#C] 阅读（源码、文献、前沿文章）                           :daily:
-SCHEDULED: <2018-05-16 三 21:00-22:00 ++1d>
+拿到数据，分为两类：
+- 未脱敏的数据，知道每个变量的具体含义
+- 脱敏数据，不知道每个变量的含义
+  
+
+
+** TODO [#B] Daily Review                                           :daily:
+SCHEDULED: <2018-05-17 四 20:30-21:00 ++1d>
+- State "DONE"       from "TODO"       [2018-05-16 三 22:21]
+:PROPERTIES:
+:LAST_REPEAT: [2018-05-16 三 22:21]
+:END:
+
+** TODO [#C] 阅读（书籍、源码、文献、前沿文章）                     :daily:
+SCHEDULED: <2018-05-17 四 21:00-22:00 ++1d>
+- State "DONE"       from "TODO"       [2018-05-16 三 22:21]
 - State "DONE"       from "TODO"       [2018-05-15 二 21:17]
 CLOCK: [2018-05-15 二 20:20]--[2018-05-15 二 20:56] =>  0:36
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-15 二 21:17]
+:LAST_REPEAT: [2018-05-16 三 22:21]
 :END:
 
 books to read
