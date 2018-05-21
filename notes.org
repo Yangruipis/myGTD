@@ -6,6 +6,7 @@
 #+EMAIL: yangruipis@163.com
 #+KEYWORDS: GTD
 #+OPTIONS: H:4 toc:t 
+#+PROPERTY: CLOCK_INTO_DRAWER t
 #+TAGS: { code(c) theory(t) school(s) easy(e) project(p) daily(d) weekly(w)}
   
 * Quick notes
