@@ -16,11 +16,10 @@ DEADLINE: <2018-05-31 四>
 
 ** TODO [#B] install C++ on my manjaro and run it 
 
-** TODO [#A] 根据内退军的推送发送内退邮件
-DEADLINE: <2018-05-21 一 13:00>
-
 ** TODO [#B] 数学建模分享会
 DEADLINE: <2018-05-24 四>
+
+[[file:~/Documents/Data/suibe/2018/modeling_share/ppt.tex]]
 
 =框架=
 
@@ -38,6 +37,11 @@ DEADLINE: <2018-05-24 四>
    - 编程不负责
 6. 如何提高你的效率（管道、模块化编程、站在前人的肩膀上）
 
+** TODO 招聘网站填写
+DEADLINE: <2018-05-21 一>
+- State "TODO"       from ""           [2018-05-21 一 12:20]
+
+
 * Learning
 
 ** TODO [#B] eamcs GTD
@@ -46,6 +50,8 @@ DEADLINE: <2018-05-24 四>
 *** org store link
 
 * Others
+
+** SOMEDAY [#C] 个人博客：如何用Emacs进行我的个人时间管理(GTD)
 
 * Hobbies
 

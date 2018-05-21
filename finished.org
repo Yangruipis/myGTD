@@ -9,6 +9,10 @@
 
 * Work
 
+** DONE [#A] 根据内退军的推送发送内推邮件
+DEADLINE: <2018-05-21 一 13:00>
+- State "DONE"       from "TODO"       [2018-05-21 一 12:20]
+
 * Learning
 
 ** DONE 讲座 yichuan zhao                                          :school:
