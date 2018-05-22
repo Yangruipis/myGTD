@@ -7,6 +7,7 @@
 #+KEYWORDS: GTD
 #+OPTIONS: H:4 toc:t 
 #+PROPERTY: CLOCK_INTO_DRAWER t
+#+PROPERTY: LOG_INTO_DRAWER t
 #+TAGS: { code(c) theory(t) school(s) easy(e) project(p) daily(d) weekly(w) }
 
 * Work
@@ -66,20 +67,25 @@ CLOCK: [2018-05-21 一 15:06]--[2018-05-21 一 15:14] =>  0:08
 
 ** TODO 复习机器学习                                         :theory:daily:
 SCHEDULED: <2018-05-22 二 10:00-11:00 ++1d>
+
+:LOGBOOK:  
+- State "TODO"       from "TODO"       [2018-05-22 二 09:21]
 - State "DONE"       from "TODO"       [2018-05-21 一 16:16]
 - State "DONE"       from "TODO"       [2018-05-20 日 23:18]
 - State "DONE"       from "TODO"       [2018-05-17 四 11:47]
 - State "DONE"       from "TODO"       [2018-05-16 三 22:21]
 - State "DONE"       from "TODO"       [2018-05-15 二 15:14]
 - State "TODO"       from "TODO"       [2018-05-15 二 15:13]
+:END:
+      
 :PROPERTIES:
 :LAST_REPEAT: [2018-05-21 一 16:16]
 :END:
 
-
 *** DONE 数据预处理
 - State "DONE"       from "TODO"       [2018-05-21 一 11:13]
 :LOGBOOK:  
+CLOCK: [2018-05-22 二 09:44]
 CLOCK: [2018-05-21 一 10:30]--[2018-05-21 一 11:13] =>  0:43
 CLOCK: [2018-05-21 一 09:57]--[2018-05-21 一 10:19] =>  0:22
 CLOCK: [2018-05-21 一 09:56]--[2018-05-21 一 09:57] =>  0:01
@@ -98,8 +104,6 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 拿到数据，分为两类：
 - 未脱敏的数据，知道每个变量的具体含义
 - 脱敏数据，不知道每个变量的含义
-
-*** 
 
 
 ** TODO [#B] Daily Review                                           :daily:
