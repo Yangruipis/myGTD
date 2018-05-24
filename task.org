@@ -16,8 +16,12 @@ DEADLINE: <2018-05-31 四>
 
 ** TODO [#B] install C++ on my manjaro and run it 
 
-** TODO 招聘网站填写
+** DONE 招聘网站填写
 DEADLINE: <2018-05-21 一>
+- State "DONE"       from "TODO"       [2018-05-22 二 19:34]
+:LOGBOOK:  
+CLOCK: [2018-05-22 二 17:57]--[2018-05-22 二 18:54] =>  0:57
+:END: 
 - State "TODO"       from ""           [2018-05-21 一 12:20]
 
 

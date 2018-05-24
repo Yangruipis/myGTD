@@ -13,11 +13,14 @@
 * Work
 
 ** TODO 个人项目：simple_ml                                :project:weekly:
+:LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-05-22 二 14:49]
+:END:      
 - State "DONE"       from "TODO"       [2018-05-15 二 15:13]
 
-SCHEDULED: <2018-05-21 一 ++1w>
+SCHEDULED: <2018-05-28 一 ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-15 二 15:13]
+:LAST_REPEAT: [2018-05-22 二 14:49]
 :END:
 
 ** TODO 京东Jdata比赛                                      :project:weekly:
@@ -43,10 +46,15 @@ CLOCK: [2018-05-21 一 13:09]--[2018-05-21 一 13:40] =>  0:31
 * Learning
 
 ** TODO 刷编程题                                               :code:daily:
-SCHEDULED: <2018-05-22 二 13:30-16:00 ++1d>
+SCHEDULED: <2018-05-23 三 13:30-16:00 ++1d>
+:LOGBOOK:  
+CLOCK: [2018-05-24 四 14:27]
+- State "DONE"       from "TODO"       [2018-05-22 二 21:17]
+CLOCK: [2018-05-22 二 20:29]--[2018-05-22 二 20:30] =>  0:01
+:END:      
 - State "DONE"       from "TODO"       [2018-05-21 一 16:16]
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-21 一 16:16]
+:LAST_REPEAT: [2018-05-22 二 21:17]
 :END:
 
 *** 2018-05-16
@@ -56,6 +64,7 @@ CLOCK: [2018-05-16 三 13:51]--[2018-05-16 三 17:03] =>  3:12
 
 *** 2018-05-21
 :LOGBOOK:  
+CLOCK: [2018-05-22 二 14:50]--[2018-05-22 二 16:18] =>  1:28
 CLOCK: [2018-05-21 一 15:15]--[2018-05-21 一 16:15] =>  1:00
 CLOCK: [2018-05-21 一 15:06]--[2018-05-21 一 15:14] =>  0:08
 :END:      
@@ -63,12 +72,34 @@ CLOCK: [2018-05-21 一 15:06]--[2018-05-21 一 15:14] =>  0:08
 - 京东2018算法工程师，牛客网: https://www.nowcoder.com/test/10630581/summary
 
 
+*** 2018-05-22
+:LOGBOOK:  
+CLOCK: [2018-05-22 二 20:30]--[2018-05-22 二 21:17] =>  0:47
+:END:      
+
+
+编程题：
+https://www.nowcoder.com/ta/2017test
+- 优雅的点 
+- 藏宝图： 贪心、动态规划
+
+*** 2018-05-24
+
+1. 子序列问题： https://blog.csdn.net/xblog_/article/details/72596370
+2. 混合颜料： https://www.nowcoder.com/ta/2017test
+
 
 
 ** TODO 复习机器学习                                         :theory:daily:
-SCHEDULED: <2018-05-22 二 10:00-11:00 ++1d>
+SCHEDULED: <2018-05-25 五 10:00-11:00 ++1d>
 
 :LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-05-24 四 13:56]
+CLOCK: [2018-05-24 四 11:55]--[2018-05-24 四 12:43] =>  0:48
+CLOCK: [2018-05-24 四 11:10]--[2018-05-24 四 11:20] =>  0:10
+- State "CANCELED"   from "TODO"       [2018-05-24 四 11:09]
+- State "DONE"       from "TODO"       [2018-05-22 二 13:13]
+CLOCK: [2018-05-22 二 09:44]--[2018-05-22 二 11:23] =>  1:39
 - State "TODO"       from "TODO"       [2018-05-22 二 09:21]
 - State "DONE"       from "TODO"       [2018-05-21 一 16:16]
 - State "DONE"       from "TODO"       [2018-05-20 日 23:18]
@@ -79,13 +110,13 @@ SCHEDULED: <2018-05-22 二 10:00-11:00 ++1d>
 :END:
       
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-21 一 16:16]
+:LAST_REPEAT: [2018-05-24 四 13:56]
 :END:
 
 *** DONE 数据预处理
 - State "DONE"       from "TODO"       [2018-05-21 一 11:13]
 :LOGBOOK:  
-CLOCK: [2018-05-22 二 09:44]
+CLOCK: [2018-05-22 二 09:44]--[2018-05-22 二 09:44] =>  0:00
 CLOCK: [2018-05-21 一 10:30]--[2018-05-21 一 11:13] =>  0:43
 CLOCK: [2018-05-21 一 09:57]--[2018-05-21 一 10:19] =>  0:22
 CLOCK: [2018-05-21 一 09:56]--[2018-05-21 一 09:57] =>  0:01
@@ -107,22 +138,28 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 
 
 ** TODO [#B] Daily Review                                           :daily:
-SCHEDULED: <2018-05-22 二 20:30-21:00 ++1d>
+SCHEDULED: <2018-05-23 三 20:30-21:00 ++1d>
+:LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-05-22 二 21:17]
+:END:      
 - State "DONE"       from "TODO"       [2018-05-21 一 20:57]
 - State "DONE"       from "TODO"       [2018-05-20 日 23:18]
 - State "DONE"       from "TODO"       [2018-05-16 三 22:21]
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-21 一 20:57]
+:LAST_REPEAT: [2018-05-22 二 21:17]
 :END:
 
 ** TODO [#C] 阅读（书籍、源码、文献、前沿文章）                     :daily:
-SCHEDULED: <2018-05-21 一 21:00-22:00 ++1d>
+SCHEDULED: <2018-05-23 三 21:00-22:00 ++1d>
+:LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-05-22 二 14:49]
+:END:      
 - State "DONE"       from "TODO"       [2018-05-20 日 23:18]
 - State "DONE"       from "TODO"       [2018-05-16 三 22:21]
 - State "DONE"       from "TODO"       [2018-05-15 二 21:17]
 CLOCK: [2018-05-15 二 20:20]--[2018-05-15 二 20:56] =>  0:36
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-20 日 23:18]
+:LAST_REPEAT: [2018-05-22 二 14:49]
 :END:
 
 books to read
