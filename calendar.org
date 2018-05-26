@@ -45,9 +45,10 @@ CLOCK: [2018-05-21 一 13:09]--[2018-05-21 一 13:40] =>  0:31
 
 * Learning
 
-** TODO 刷编程题                                               :code:daily:
+** TODO [#B] 刷编程题                                          :code:daily:
 SCHEDULED: <2018-05-25 五 13:30-16:00 ++1d>
 :LOGBOOK:  
+CLOCK: [2018-05-25 五 13:23]--[2018-05-25 五 14:04] =>  0:41
 - State "DONE"       from "TODO"       [2018-05-24 四 16:35]
 CLOCK: [2018-05-24 四 14:27]--[2018-05-24 四 16:35] =>  2:08
 - State "DONE"       from "TODO"       [2018-05-22 二 21:17]
@@ -72,7 +73,6 @@ CLOCK: [2018-05-21 一 15:06]--[2018-05-21 一 15:14] =>  0:08
 
 - 京东2018算法工程师，牛客网: https://www.nowcoder.com/test/10630581/summary
 
-
 *** 2018-05-22
 :LOGBOOK:  
 CLOCK: [2018-05-22 二 20:30]--[2018-05-22 二 21:17] =>  0:47
@@ -89,12 +89,19 @@ https://www.nowcoder.com/ta/2017test
 1. 子序列问题： https://blog.csdn.net/xblog_/article/details/72596370
 2. 混合颜料： https://www.nowcoder.com/ta/2017test
 
+*** 2018-05-25
+
+1. 地牢逃脱
+2. 下厨房
+3. 分田地
 
 
-** TODO 复习机器学习                                         :theory:daily:
-SCHEDULED: <2018-05-26 六 10:00-11:00 ++1d>
+** TODO [#B] 复习机器学习                                    :theory:daily:
+SCHEDULED: <2018-05-27 日 10:00-11:00 ++1d>
 
 :LOGBOOK:  
+- State "TODO"       from "SOMEDAY"    [2018-05-25 五 12:27]
+- State "FIXED"      from "TODO"       [2018-05-25 五 12:27]
 - State "DONE"       from "TODO"       [2018-05-25 五 11:05]
 CLOCK: [2018-05-25 五 09:39]--[2018-05-25 五 11:05] =>  1:26
 - State "DONE"       from "TODO"       [2018-05-24 四 13:56]
@@ -113,7 +120,7 @@ CLOCK: [2018-05-22 二 09:44]--[2018-05-22 二 11:23] =>  1:39
 :END:
       
 :PROPERTIES:
-:LAST_REPEAT: [2018-05-25 五 11:05]
+:LAST_REPEAT: [2018-05-25 五 12:27]
 :END:
 
 *** DONE 数据预处理
@@ -138,8 +145,7 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 拿到数据，分为两类：
 - 未脱敏的数据，知道每个变量的具体含义
 - 脱敏数据，不知道每个变量的含义
-
-
+  
 ** TODO [#B] Daily Review                                           :daily:
 SCHEDULED: <2018-05-23 三 20:30-21:00 ++1d>
 :LOGBOOK:  
