@@ -38,6 +38,21 @@ CLOCK: [2018-05-21 一 17:51]--[2018-05-21 一 20:57] =>  3:06
    - 编程不负责
 6. 如何提高你的效率（管道、模块化编程、站在前人的肩膀上）
 
+** DONE 招聘网站填写
+DEADLINE: <2018-05-21 一>
+- State "DONE"       from "TODO"       [2018-05-22 二 19:34]
+:LOGBOOK:  
+CLOCK: [2018-05-22 二 17:57]--[2018-05-22 二 18:54] =>  0:57
+:END: 
+- State "TODO"       from ""           [2018-05-21 一 12:20]
+
+** DONE [#B] 招聘网站填写
+DEADLINE: <2018-05-25 五>
+- State "DONE"       from "TODO"       [2018-05-26 六 22:56]
+
+** DONE [#B] install C++ on my manjaro and run it 
+- State "DONE"       from "TODO"       [2018-05-28 一 14:37]
+
 * Learning
 
 ** DONE 讲座 yichuan zhao                                          :school:
@@ -91,6 +106,12 @@ simulation studies : copula models or bivariate failure times
   
  [2018-05-16 三 10:03]
 
+** DONE [#B] eamcs GTD
+- State "DONE"       from "TODO"       [2018-05-28 一 14:38]
+*** daily, weekly, monthly job
+*** time manager + 番茄
+*** org store link
+
 * Hobbies
 
 ** DONE [#C] try pomodoro
@@ -105,7 +126,6 @@ CLOCK: [2018-05-15 二 15:54]--[2018-05-15 二 15:58] =>  0:04
 DEADLINE: <2018-05-15 二 18:00-19:00>
 CLOCK: [2018-05-15 二 19:38]--[2018-05-15 二 19:39] =>  0:01
 - State "DONE"       from "TODO"       [2018-05-15 二 19:18]
-CLOCK: [2018-05-15 二 18:22]
 CLOCK: [2018-05-15 二 18:07]--[2018-05-15 二 18:15] =>  0:08
 CLOCK: [2018-05-15 二 18:05]--[2018-05-15 二 18:05] =>  0:00
 CLOCK: [2018-05-15 二 18:03]--[2018-05-15 二 18:05] =>  0:02
