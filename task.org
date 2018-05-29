@@ -9,12 +9,16 @@
 #+PROPERTY: CLOCK_INTO_DRAWER t
 #+TAGS: { code(c) theory(t) school(s) easy(e) project(p) }
 
-* Work
+* TODO Work[1/3]
+- State "TODO"       from ""           [2018-05-29 二 09:51]
 
 ** TODO [#B] 论文整理发表                                          :school:
 DEADLINE: <2018-06-10 日>
-** TODO [#A] 京东528内推
+- State "TODO"       from "FIXED"      [2018-05-28 一 23:28]
+- State "FIXED"      from "TODO"       [2018-05-28 一 23:28]
+** DONE [#A] 京东528内推
 DEADLINE: <2018-05-28 一>
+- State "DONE"       from "TODO"       [2018-05-28 一 20:55]
 ** TODO [#C] 秋招提前批公司了解
 SCHEDULED: <2018-06-06 三>
 
@@ -24,6 +28,13 @@ SCHEDULED: <2018-06-06 三>
 * Others
 
 ** SOMEDAY [#C] 个人博客：如何用Emacs进行我的个人时间管理(GTD)
+:LOGBOOK:  
+CLOCK: [2018-05-29 二 09:37]--[2018-05-29 二 10:01] =>  0:24
+CLOCK: [2018-05-29 二 09:37]--[2018-05-29 二 09:37] =>  0:00
+CLOCK: [2018-05-28 一 23:10]--[2018-05-28 一 23:35] =>  0:25
+CLOCK: [2018-05-28 一 18:17]--[2018-05-28 一 18:42] =>  0:25
+CLOCK: [2018-05-28 一 17:47]--[2018-05-28 一 18:12] =>  0:25
+:END:      
 
 * Hobbies
 

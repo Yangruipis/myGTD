@@ -14,6 +14,18 @@
 ** CANCELED [#B] 女朋友网站
 - State "CANCELED"   from "TODO"       [2018-05-26 六 10:06]
 
+** 京东Jdata比赛                                           :project:weekly:
+:LOGBOOK:  
+- State "CANCELED"   from "TODO"       [2018-05-28 一 20:54]
+- State "CANCELED"   from "TODO"       [2018-05-28 一 20:54]
+- State "TODO"       from ""           [2018-05-28 一 15:52]
+- State "DONE"       from "TODO"       [2018-05-28 一 09:32]
+:END:      
+- State "DONE"       from "TODO"       [2018-05-21 一 16:50]
+:PROPERTIES:
+:LAST_REPEAT: [2018-05-28 一 20:54]
+:END:
+
 * Learning
 
 * Hobbies
