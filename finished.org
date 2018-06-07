@@ -71,6 +71,14 @@ DEADLINE: <2018-05-28 一>
 DEADLINE: <2018-06-05 二>
 - State "DONE"       from "TODO"       [2018-06-05 二 19:44]
 
+** DONE [#A] 数学建模报名
+DEADLINE: <2018-06-09 六>
+- State "DONE"       from "TODO"       [2018-06-07 四 12:00]
+
+** DONE [#B] 周三体检
+SCHEDULED: <2018-06-06 三>
+- State "DONE"       from "TODO"       [2018-06-06 三 20:48]
+
 * Learning
 
 ** DONE 讲座 yichuan zhao                                          :school:

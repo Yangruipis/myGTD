@@ -19,13 +19,6 @@ DEADLINE: <2018-06-10 日>
 ** TODO [#C] 秋招提前批公司了解
 SCHEDULED: <2018-06-07 四>
 
-** DONE [#B] 周三体检
-SCHEDULED: <2018-06-06 三>
-- State "DONE"       from "TODO"       [2018-06-06 三 20:48]
-
-** TODO [#A] 数学建模报名
-DEADLINE: <2018-06-09 六>
-
 * Learning
 
 * Others
