@@ -25,21 +25,63 @@
 当周的统计，光标放在"#+BEGIN:"行上， ~C-c C-c~ 即可更新
 
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-05-29 二 09:47], for week 2018-W22.
-| File         | Headline                     | Time   |      |
-|--------------+------------------------------+--------+------|
-|              | ALL *Total time*             | *5:16* |      |
-|--------------+------------------------------+--------+------|
-| calendar.org | *File time*                  | *4:01* |      |
-|              | Learning                     | 4:01   |      |
-|              | \emsp TODO [#B] 刷编程题     |        | 1:31 |
-|              | \emsp TODO [#B] 复习机器学习 |        | 1:40 |
-|              | \emsp TODO [#B] 学习JAVA     |        | 0:50 |
-|--------------+------------------------------+--------+------|
-| task.org     | *File time*                  | *1:15* |      |
-|              | Others                       | 1:15   |      |
-|              | \emsp SOMEDAY [#C]...        |        | 1:15 |
+#+CAPTION: Clock summary at [2018-06-08 五 16:42], for week 2018-W23.
+| File | Headline         | Time   |
+|------+------------------+--------|
+|      | ALL *Total time* | *0:00* |
 #+END:
+
+* monthly Review
+
+当周的统计，光标放在"#+BEGIN:"行上， ~C-c C-c~ 即可更新
+
+#+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
+#+CAPTION: Clock summary at [2018-06-08 五 16:43], for 六月 2018.
+| File | Headline         | Time   |
+|------+------------------+--------|
+|      | ALL *Total time* | *0:00* |
+#+END:
+
+* yearly Review
+
+当周的统计，光标放在"#+BEGIN:"行上， ~C-c C-c~ 即可更新
+
+#+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisyear :fileskip0 t :indent t
+#+CAPTION: Clock summary at [2018-06-08 五 16:44], for the year 2018.
+| File         | Headline                                           |       Time |       |      |      |
+|--------------+----------------------------------------------------+------------+-------+------+------|
+|              | ALL *Total time*                                   | *1d 16:58* |       |      |      |
+|--------------+----------------------------------------------------+------------+-------+------+------|
+| calendar.org | *File time*                                        |  *1d 9:58* |       |      |      |
+|              | Work                                               |       1:03 |       |      |      |
+|              | \_  导师组会                                       |            |  1:03 |      |      |
+|              | Learning                                           |    1d 8:55 |       |      |      |
+|              | \_  刷编程题                                       |            | 16:10 |      |      |
+|              | \_    2018-05-16                                   |            |       | 3:12 |      |
+|              | \_    2018-05-21                                   |            |       | 2:36 |      |
+|              | \_    2018-05-22                                   |            |       | 0:47 |      |
+|              | \_  复习机器学习                                   |            | 14:04 |      |      |
+|              | \_    数据预处理                                   |            |       | 2:38 |      |
+|              | \_      详细步骤                                   |            |       |      | 0:22 |
+|              | \_  学习JAVA                                       |            |  0:50 |      |      |
+|              | \_  Daily Review                                   |            |  1:15 |      |      |
+|              | \_  阅读（书籍、源码、文献、前沿文章）             |            |  0:36 |      |      |
+|--------------+----------------------------------------------------+------------+-------+------+------|
+| finished.org | *File time*                                        |     *7:00* |       |      |      |
+|              | Work                                               |       4:03 |       |      |      |
+|              | \_  数学建模分享会                                 |            |  3:06 |      |      |
+|              | \_  招聘网站填写                                   |            |  0:57 |      |      |
+|              | Learning                                           |       0:36 |       |      |      |
+|              | \_  讲座 yichuan zhao                              |            |  0:36 |      |      |
+|              | Hobbies                                            |       0:06 |       |      |      |
+|              | \_  try pomodoro                                   |            |  0:06 |      |      |
+|              | Others                                             |       2:15 |       |      |      |
+|              | \_  修改队长简历                                   |            |  0:11 |      |      |
+|              | \_  个人博客：如何用Emacs进行我的个人时间管理(GTD) |            |  2:04 |      |      |
+#+END:
+
+
+
 
 * How to use
 
