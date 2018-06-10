@@ -14,10 +14,14 @@
 
 ** TODO [#B] 论文整理发表                                          :school:
 DEADLINE: <2018-06-10 日>
+:LOGBOOK:
+CLOCK: [2018-06-10 日 14:17]--[2018-06-10 日 14:42] =>  0:25
+CLOCK: [2018-06-10 日 13:36]--[2018-06-10 日 14:01] =>  0:25
+:END:
 - State "TODO"       from "FIXED"      [2018-05-28 一 23:28]
 - State "FIXED"      from "TODO"       [2018-05-28 一 23:28]
 ** TODO [#C] 秋招提前批公司了解
-SCHEDULED: <2018-06-07 四>
+SCHEDULED: <2018-06-12 二>
 
 * Learning
 

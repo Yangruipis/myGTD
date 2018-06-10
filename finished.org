@@ -73,6 +73,8 @@ DEADLINE: <2018-06-05 二>
 
 ** DONE [#A] 数学建模报名
 DEADLINE: <2018-06-09 六>
+- State "DONE"       from "DONE"       [2018-06-10 日 10:46]
+- State "DONE"       from "DONE"       [2018-06-10 日 10:46]
 - State "DONE"       from "TODO"       [2018-06-07 四 12:00]
 
 ** DONE [#B] 周三体检
