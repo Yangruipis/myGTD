@@ -35,7 +35,7 @@ SCHEDULED: <2018-06-09 六 ++1w>
 :END:
 
 ** TODO 导师组会                                                    :weekly:
-SCHEDULED: <2018-06-11 一 13:00-15:30 ++2w>
+SCHEDULED: <2018-06-18 一 13:00-15:30 ++2w>
 - State "DONE"       from "TODO"       [2018-05-21 一 15:05]
 :LOGBOOK:  
 CLOCK: [2018-05-21 一 14:15]--[2018-05-21 一 14:47] =>  0:32
@@ -46,16 +46,35 @@ CLOCK: [2018-05-21 一 13:09]--[2018-05-21 一 13:40] =>  0:31
 :END:
 
 ** TODO Weekly Review
-DEADLINE: <2018-06-10 日 18:00-21:00 ++1w>
+DEADLINE: <2018-06-17 日 18:00-21:00 ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2018-06-05 二 11:22]
+:LAST_REPEAT: [2018-06-11 一 12:42]
 :END:
 
 :LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-06-11 一 12:42]
 - State "DONE"       from "TODO"       [2018-06-05 二 11:22]
 - State "DONE"       from "TODO"       [2018-05-28 一 09:32]
 - State "TODO"       from ""           [2018-05-26 六 12:56]
 :END:      
+
+** TODO [#B] Kaggle
+SCHEDULED: <2018-06-11 一 20:30-22:30 ++1d>
+
+:LOGBOOK:
+- State "TODO"       from              [2018-06-11 一 12:43]
+:END:
+
+
+
+** TODO [#C] simple_ml
+
+:LOGBOOK:
+CLOCK: [2018-06-12 二 10:01]--[2018-06-12 二 10:56] =>  0:55
+CLOCK: [2018-06-11 一 14:02]--[2018-06-11 一 16:00] =>  1:58
+CLOCK: [2018-06-11 一 13:05]--[2018-06-11 一 13:30] =>  0:25
+- State "TODO"       from              [2018-06-11 一 12:45]
+:END:
 
 * Learning
 
