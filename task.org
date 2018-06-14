@@ -12,8 +12,9 @@
 * TODO Work
 - State "TODO"       from ""           [2018-05-29 二 09:51]
 
-** TODO [#B] 论文整理发表                                          :school:
+** CANCELED [#B] 论文整理发表                                      :school:
 DEADLINE: <2018-06-18 一>
+- State "CANCELED"   from "TODO"       [2018-06-13 三 11:31]
 :LOGBOOK:
 CLOCK: [2018-06-10 日 14:17]--[2018-06-10 日 14:42] =>  0:25
 CLOCK: [2018-06-10 日 13:36]--[2018-06-10 日 14:01] =>  0:25
