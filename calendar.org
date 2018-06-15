@@ -58,10 +58,14 @@ DEADLINE: <2018-06-17 日 18:00-21:00 ++1w>
 - State "TODO"       from ""           [2018-05-26 六 12:56]
 :END:      
 
-** TODO [#B] Kaggle
-SCHEDULED: <2018-06-11 一 20:30-22:30 ++1d>
+** B [#TODO] Kaggle
+SCHEDULED: <2018-06-16 六 20:30-22:30 ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2018-06-15 五 20:54]
+:END:
 
 :LOGBOOK:
+- State "CANCELED"   from "TODO"       [2018-06-15 五 20:54]
 - State "TODO"       from              [2018-06-11 一 12:43]
 :END:
 
