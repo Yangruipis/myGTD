@@ -44,9 +44,13 @@ SCHEDULED: <2018-06-17 日 ++1d>
 *** 单元测试
 
 ** TODO 导师组会                                                    :weekly:
-SCHEDULED: <2018-06-18 一 13:00-15:30 ++2w>
+SCHEDULED: <2018-07-02 一 13:00-15:30 ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2018-06-28 四 22:55]
+:END:
 - State "DONE"       from "TODO"       [2018-05-21 一 15:05]
 :LOGBOOK:  
+- State "CANCELED"   from "TODO"       [2018-06-28 四 22:55]
 CLOCK: [2018-05-21 一 14:15]--[2018-05-21 一 14:47] =>  0:32
 CLOCK: [2018-05-21 一 13:09]--[2018-05-21 一 13:40] =>  0:31
 :END:      
