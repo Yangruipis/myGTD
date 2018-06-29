@@ -59,12 +59,13 @@ CLOCK: [2018-05-21 一 13:09]--[2018-05-21 一 13:40] =>  0:31
 :END:
 
 ** TODO Weekly Review
-DEADLINE: <2018-06-24 日 18:00-21:00 ++1w>
+DEADLINE: <2018-07-01 日 18:00-21:00 ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2018-06-23 六 09:40]
+:LAST_REPEAT: [2018-06-29 五 19:55]
 :END:
 
 :LOGBOOK:  
+- State "CANCELED"   from "TODO"       [2018-06-29 五 19:55]
 - State "CANCELED"   from "TODO"       [2018-06-23 六 09:40]
 - State "DONE"       from "TODO"       [2018-06-11 一 12:42]
 - State "DONE"       from "TODO"       [2018-06-05 二 11:22]
