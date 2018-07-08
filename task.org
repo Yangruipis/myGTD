@@ -31,6 +31,8 @@ DEADLINE: <2018-07-01 日>
 ** TODO [#B] 导师组会
 SCHEDULED: <2018-07-02 一 08:30>
 
+** TODO [#B] 秋招提前批
+
 
 * Learning
 
