@@ -21,16 +21,9 @@ CLOCK: [2018-06-10 日 13:36]--[2018-06-10 日 14:01] =>  0:25
 :END:
 - State "TODO"       from "FIXED"      [2018-05-28 一 23:28]
 - State "FIXED"      from "TODO"       [2018-05-28 一 23:28]
-** TODO [#C] 秋招提前批公司了解
-SCHEDULED: <2018-06-12 二>
-** CANCELED [#B] 航班数据分析
+** 导师组会
 
-- State "CANCELED"   from "TODO"       [2018-07-01 日 11:44]
-DEADLINE: <2018-07-01 日>
-
-** TODO [#B] 导师组会
-SCHEDULED: <2018-07-02 一 08:30>
-
+- State "CANCELED"   from "TODO"       [2018-07-23 一 12:07]
 ** TODO [#B] 秋招提前批
 
 
