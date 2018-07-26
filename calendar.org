@@ -46,12 +46,14 @@ CLOCK: [2018-06-17 日 14:38]--[2018-06-17 日 15:52] =>  1:14
 * Learning
 
 ** TODO [#B] 刷编程题                                          :code:daily:
-SCHEDULED: <2018-07-24 二 13:30-16:00 ++1d>
+SCHEDULED: <2018-07-26 四 13:30-16:00 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-23 一 19:23]
+:LAST_REPEAT: [2018-07-25 三 21:04]
 :END:
 :LOGBOOK:  
-CLOCK: [2018-07-24 二 14:34]
+CLOCK: [2018-07-26 四 14:50]--[2018-07-26 一 16:30] =>  1:40
+- State "DONE"       from "TODO"       [2018-07-25 三 21:04]
+- State "DONE"       from "TODO"       [2018-07-25 三 10:00]
 - State "DONE"       from "TODO"       [2018-07-23 一 19:23]
 CLOCK: [2018-07-23 一 15:30]--[2018-07-23 一 16:34] =>  2:24
 CLOCK: [2018-07-23 一 12:55]--[2018-07-23 一 14:55] =>  2:00
@@ -134,13 +136,17 @@ https://www.nowcoder.com/ta/2017test
 ~重刷 剑指offer~
 
 ** TODO [#B] 复习机器学习                                    :theory:daily:
-SCHEDULED: <2018-07-25 三 09:30-11:20 ++1d>
+SCHEDULED: <2018-07-27 五 09:30-11:20 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-24 二 13:24]
+:LAST_REPEAT: [2018-07-26 四 13:48]
 :END:
 
 :LOGBOOK:
-
+- State "DONE"       from "TODO"       [2018-07-26 四 13:48]
+CLOCK: [2018-07-26 四 10:26]--[2018-07-26 四 11:47] =>  1:21
+CLOCK: [2018-07-26 四 09:28]--[2018-07-26 四 09:53] =>  0:25
+- State "DONE"       from "TODO"       [2018-07-25 三 21:04]
+CLOCK: [2018-07-25 三 10:01]--[2018-07-25 三 11:52] =>  1:51
 - State "CANCELED"   from "TODO"       [2018-07-23 一 17:54]
 - State "TODO"       from "CANCELED"   [2018-07-23 一 12:13]
 - State "CANCELED"   from "TODO"       [2018-06-05 二 11:20]
@@ -215,18 +221,25 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 - 脱敏数据，不知道每个变量的含义
 
 ** TODO [#A] 刷牛客网
-SCHEDULED: <2018-07-25 三 08:30-09:20 ++1d>
+SCHEDULED: <2018-07-27 五 08:30-09:20 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-24 二 09:24]
+:LAST_REPEAT: [2018-07-26 四 09:28]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2018-07-26 四 09:28]
+- State "DONE"       from "TODO"       [2018-07-25 三 10:00]
 - State "DONE"       from "TODO"       [2018-07-24 二 09:24]
 - State "TODO"       from "TODO"       [2018-07-23 一 12:21]
 :END:
 
 ** TODO [#C] 其他事情补充
-SCHEDULED: <2018-07-24 二 18:00-21:50 ++1d>
+SCHEDULED: <2018-07-26 四 18:00-21:50 ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2018-07-26 四 15:20]
+:END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2018-07-26 四 15:20]
+- State "DONE"       from "TODO"       [2018-07-25 三 10:00]
 - State "TODO"       from              [2018-07-23 一 12:21]
 :END:
 
