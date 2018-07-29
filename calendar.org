@@ -13,12 +13,13 @@
 * Work
 
 ** TODO Weekly Review
-DEADLINE: <2018-07-29 日 18:00-21:00 ++1w>
+DEADLINE: <2018-08-05 日 18:00-21:00 ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-23 一 12:08]
+:LAST_REPEAT: [2018-07-29 日 19:56]
 :END:
 
 :LOGBOOK:  
+- State "CANCELED"   from "TODO"       [2018-07-29 日 19:56]
 - State "CANCELED"   from "TODO"       [2018-07-23 一 12:08]
 - State "CANCELED"   from "TODO"       [2018-06-29 五 19:55]
 - State "CANCELED"   from "TODO"       [2018-06-23 六 09:40]
@@ -46,11 +47,14 @@ CLOCK: [2018-06-17 日 14:38]--[2018-06-17 日 15:52] =>  1:14
 * Learning
 
 ** TODO [#B] 刷编程题                                          :code:daily:
-SCHEDULED: <2018-07-26 四 13:30-16:00 ++1d>
+SCHEDULED: <2018-07-30 一 13:30-16:00 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-25 三 21:04]
+:LAST_REPEAT: [2018-07-29 日 19:56]
 :END:
 :LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-07-29 日 19:56]
+CLOCK: [2018-07-29 日 14:40]--[2018-07-29 日 17:26] =>  2:46
+- State "CANCELED"   from "TODO"       [2018-07-29 日 09:54]
 CLOCK: [2018-07-26 四 14:50]--[2018-07-26 一 16:30] =>  1:40
 - State "DONE"       from "TODO"       [2018-07-25 三 21:04]
 - State "DONE"       from "TODO"       [2018-07-25 三 10:00]
@@ -136,12 +140,16 @@ https://www.nowcoder.com/ta/2017test
 ~重刷 剑指offer~
 
 ** TODO [#B] 复习机器学习                                    :theory:daily:
-SCHEDULED: <2018-07-27 五 09:30-11:20 ++1d>
+SCHEDULED: <2018-07-30 一 09:30-11:20 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-26 四 13:48]
+:LAST_REPEAT: [2018-07-29 日 14:09]
 :END:
 
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2018-07-29 日 14:09]
+CLOCK: [2018-07-29 日 09:54]--[2018-07-29 日 12:00] =>  2:06
+- State "CANCELED"   from "TODO"       [2018-07-29 日 09:54]
+- State "DONE"       from "TODO"       [2018-07-27 五 12:33]
 - State "DONE"       from "TODO"       [2018-07-26 四 13:48]
 CLOCK: [2018-07-26 四 10:26]--[2018-07-26 四 11:47] =>  1:21
 CLOCK: [2018-07-26 四 09:28]--[2018-07-26 四 09:53] =>  0:25
@@ -221,11 +229,13 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 - 脱敏数据，不知道每个变量的含义
 
 ** TODO [#A] 刷牛客网
-SCHEDULED: <2018-07-27 五 08:30-09:20 ++1d>
+SCHEDULED: <2018-07-30 一 08:30-09:20 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-26 四 09:28]
+:LAST_REPEAT: [2018-07-29 日 09:54]
 :END:
 :LOGBOOK:
+- State "CANCELED"   from "TODO"       [2018-07-29 日 09:54]
+- State "CANCELED"   from "TODO"       [2018-07-27 五 12:33]
 - State "DONE"       from "TODO"       [2018-07-26 四 09:28]
 - State "DONE"       from "TODO"       [2018-07-25 三 10:00]
 - State "DONE"       from "TODO"       [2018-07-24 二 09:24]
@@ -233,11 +243,12 @@ SCHEDULED: <2018-07-27 五 08:30-09:20 ++1d>
 :END:
 
 ** TODO [#C] 其他事情补充
-SCHEDULED: <2018-07-26 四 18:00-21:50 ++1d>
+SCHEDULED: <2018-07-29 日 18:00-21:50 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-26 四 15:20]
+:LAST_REPEAT: [2018-07-29 日 09:54]
 :END:
 :LOGBOOK:
+- State "CANCELED"   from "TODO"       [2018-07-29 日 09:54]
 - State "DONE"       from "TODO"       [2018-07-26 四 15:20]
 - State "DONE"       from "TODO"       [2018-07-25 三 10:00]
 - State "TODO"       from              [2018-07-23 一 12:21]
