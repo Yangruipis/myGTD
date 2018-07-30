@@ -146,6 +146,7 @@ SCHEDULED: <2018-07-30 一 09:30-11:20 ++1d>
 :END:
 
 :LOGBOOK:
+CLOCK: [2018-07-30 一 13:18]--[2018-07-30 一 16:47] =>  3:29
 - State "DONE"       from "TODO"       [2018-07-29 日 14:09]
 CLOCK: [2018-07-29 日 09:54]--[2018-07-29 日 12:00] =>  2:06
 - State "CANCELED"   from "TODO"       [2018-07-29 日 09:54]
@@ -229,11 +230,12 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 - 脱敏数据，不知道每个变量的含义
 
 ** TODO [#A] 刷牛客网
-SCHEDULED: <2018-07-30 一 08:30-09:20 ++1d>
+SCHEDULED: <2018-07-31 二 08:30-09:20 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-29 日 09:54]
+:LAST_REPEAT: [2018-07-30 一 13:18]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2018-07-30 一 13:18]
 - State "CANCELED"   from "TODO"       [2018-07-29 日 09:54]
 - State "CANCELED"   from "TODO"       [2018-07-27 五 12:33]
 - State "DONE"       from "TODO"       [2018-07-26 四 09:28]
