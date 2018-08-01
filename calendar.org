@@ -232,11 +232,12 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 - 脱敏数据，不知道每个变量的含义
 
 ** TODO [#A] 刷牛客网
-SCHEDULED: <2018-08-01 三 08:30-09:20 ++1d>
+SCHEDULED: <2018-08-02 四 08:30-09:20 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-31 二 13:57]
+:LAST_REPEAT: [2018-08-01 三 10:14]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2018-08-01 三 10:14]
 - State "DONE"       from "TODO"       [2018-07-31 二 13:57]
 - State "DONE"       from "TODO"       [2018-07-30 一 13:18]
 - State "CANCELED"   from "TODO"       [2018-07-29 日 09:54]
