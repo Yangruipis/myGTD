@@ -13,12 +13,13 @@
 * Work
 
 ** TODO Weekly Review
-DEADLINE: <2018-08-05 日 18:00-21:00 ++1w>
+DEADLINE: <2018-08-19 日 18:00-21:00 ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2018-07-29 日 19:56]
+:LAST_REPEAT: [2018-08-16 四 20:21]
 :END:
 
 :LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-08-16 四 20:21]
 - State "CANCELED"   from "TODO"       [2018-07-29 日 19:56]
 - State "CANCELED"   from "TODO"       [2018-07-23 一 12:08]
 - State "CANCELED"   from "TODO"       [2018-06-29 五 19:55]
