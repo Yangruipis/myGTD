@@ -223,11 +223,12 @@ CLOCK: [2018-05-16 三 12:59]--[2018-05-16 三 12:59] =>  0:00
 - 脱敏数据，不知道每个变量的含义
 
 ** [#A] 刷牛客网
-SCHEDULED: <2018-10-31 三 08:30-09:20 ++1d>
+SCHEDULED: <2018-12-23 日 08:30-09:20 ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2018-10-30 二 14:29]
+:LAST_REPEAT: [2018-12-22 六 11:10]
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2018-12-22 六 11:10]
 - State "DONE"       from              [2018-10-30 二 14:29]
 - State "CANCELED"   from              [2018-08-03 五 10:19]
 - State "DONE"       from "TODO"       [2018-08-01 三 10:14]
@@ -275,9 +276,11 @@ CLOCK: [2018-05-28 一 19:25]--[2018-05-28 一 19:50] =>  0:25
 :END:
 :END:      
 
-** CANCELED [#B] Daily Review                                       :daily:
+** DONE [#B] Daily Review                                           :daily:
 SCHEDULED: <2018-05-30 三 20:30-21:00>
 :LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-12-22 六 11:11]
+- State "TODO"       from "CANCELED"   [2018-12-22 六 11:09]
 - State "CANCELED"   from "TODO"       [2018-06-05 二 11:21]
 CLOCK: [2018-05-30 三 22:21]--[2018-05-30 三 22:46] =>  0:25
 CLOCK: [2018-05-30 三 21:51]--[2018-05-30 三 22:16] =>  0:25
@@ -293,9 +296,10 @@ CLOCK: [2018-05-30 三 20:02]--[2018-05-30 三 20:27] =>  0:25
 :LAST_REPEAT: [2018-05-29 二 22:48]
 :END:
 
-** CANCELED [#C] 阅读（书籍、源码、文献、前沿文章）                 :daily:
+** TODO [#C] 阅读（书籍、源码、文献、前沿文章）                     :daily:
 SCHEDULED: <2018-05-30 三 21:00-22:00>
 :LOGBOOK:  
+- State "TODO"       from "CANCELED"   [2018-12-22 六 11:09]
 - State "CANCELED"   from "TODO"       [2018-06-05 二 11:21]
 - State "CANCELED"   from "TODO"       [2018-05-29 二 22:48]
 - State "CANCELED"   from "TODO"       [2018-05-28 一 14:46]
